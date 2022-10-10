@@ -7,3 +7,9 @@ How to start an app?
 3. Go to the main app folder, open console and type <i>ng serve</i>.
 
 Application will be available on port 4200. 
+
+# Known problems
+
+On Windows, in case of <i>ng being not recognised as internal or external command</i>, update the system path variable to include the following path.
+
+<strong>C:\Users\\{Your username}\AppData\Roaming\npm</strong>
